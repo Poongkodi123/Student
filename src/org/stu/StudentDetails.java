@@ -1,6 +1,9 @@
 package org.stu;
 import java.util.Scanner;
 public class StudentDetails {
+	private void sampledisplay() {
+		System.out.println("Updated");
+	}
 	public static void main(String[]args) {
 		Scanner scan=new Scanner(System.in);
 		
