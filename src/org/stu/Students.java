@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Students {
 		private void sampledisplay() {
-			System.out.println("Updated");
+			System.out.println("Updated Student");
 		}
 		public static void main(String[]args) {
 			Scanner scan=new Scanner(System.in);
